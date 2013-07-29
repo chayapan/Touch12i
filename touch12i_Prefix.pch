@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'touch12i' target in the 'touch12i' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
